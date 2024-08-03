@@ -1000,6 +1000,29 @@ NOTE: This Page might not Contain All Devices! Notify us if you Find one.
 |USB Power Delivery||❌|
 |Windows Boot||❌|
 |Linux Boot||❌|
+
+## Xiaomi Mi 8 Pro
+
+<img align="right" src="Resources/Pictures/Xiaomi-mi-mix-2s.png" width="500" alt="Preview">
+
+**State: Active** <br>
+**Codename: polaris** <br>
+**Maintainer: Icesito68** <br>
+**Contibuter: Icesito68** <br>
+**Tester: Icesito68**
+
+### UEFI Status
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Display||✅|
+|UFS||✅|
+|Side Buttons||✅|
+|USB Host Mode||✅||
+|USB Device Mode||❌|
+|USB Power Delivery||❌|
+|Windows Boot||❌|
+|Linux Boot||❌|
   </summary>
 </details>
 
