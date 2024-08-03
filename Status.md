@@ -1001,7 +1001,7 @@ NOTE: This Page might not Contain All Devices! Notify us if you Find one.
 |Windows Boot||❌|
 |Linux Boot||❌|
 
-## Xiaomi Mi 8 Pro
+## Xiaomi Mi Mix 2s
 
 <img align="right" src="Resources/Pictures/Xiaomi-mi-mix-2s.png" width="500" alt="Preview">
 
